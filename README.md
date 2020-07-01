@@ -1,0 +1,1 @@
+A digital replica of the popular Etch-a-Sketch toy using HTML, CSS, and Javascript.
